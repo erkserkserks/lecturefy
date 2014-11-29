@@ -28,9 +28,6 @@ javascript:(function(){if(window.location.host.indexOf("mvideox")!==0){alert('In
 ```
 ![](https://raw.githubusercontent.com/erkserkserks/lecturefy/master/tutorial_screenshots/3.png)
 
-4. Done!
-
-
 # Usage
 1. Navigate to https://mvideox.stanford.edu/
 2. Choose a course and watch a lecture video (any lecture video)
