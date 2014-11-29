@@ -26,6 +26,7 @@ javascript:(function(){if(window.location.host.indexOf("mvideox")!==0){alert('In
 1. Navigate to https://mvideox.stanford.edu/
 2. Choose a course and watch a lecture video (any lecture video)
 3. Click on the Lecturefy bookmarklet ![](https://raw.githubusercontent.com/erkserkserks/lecturefy/master/tutorial_screenshots/4.png)
-4. Done! ![](https://raw.githubusercontent.com/erkserkserks/lecturefy/master/tutorial_screenshots/5.png)
+4. Done! Click on the links to download, or copy the links into your favorite download manager.
+![](https://raw.githubusercontent.com/erkserkserks/lecturefy/master/tutorial_screenshots/5.png)
 
 Since Lecturefy is just javascript, you can also run it in your browser's javascript console.
