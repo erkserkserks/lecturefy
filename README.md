@@ -5,7 +5,7 @@ Lecturefy
 Lecturefy is a javascript bookmarklet that makes downloading SCPD lecture videos easier. Lecturefy doesn't actually download anything; instead, it generates links so that you can use your favorite download manager to download videos.
 
 # Requirements
-The only thing that is required is a web browser that can play SCPD videos, which is pretty much any modern web browser. Tested on Chrome 39, Firefox 32, and Safari 7.1.
+The only thing that is required is a web browser that can play SCPD videos, which is any modern web browser. Tested on Chrome 39, Firefox 32, Safari 7.1, Internet Explorer 11.
 
 # Installation
 ### Install as a bookmarklet
