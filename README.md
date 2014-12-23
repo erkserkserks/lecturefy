@@ -9,7 +9,7 @@ The only thing that is required is a web browser that can play SCPD videos, whic
 
 # Installation
 ### Install as a bookmarklet
-1. Since Github doesn't allow embedding Javascript on this page, go here: http://www.erkserkserks.com/2014/11/29/lecturefy/
+1. Since Github doesn't allow embedding Javascript on this page, go here: http://www.erkserkserks.com/2014/12/23/lecturefy/
 
 2. Drag "Lecturefy" link onto your bookmark toolbar.
 ![](https://raw.githubusercontent.com/erkserkserks/lecturefy/master/tutorial_screenshots/easy_installation.png)
